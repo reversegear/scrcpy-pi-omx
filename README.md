@@ -1,7 +1,8 @@
 # scrcpy-pi-omx
 Android screemirror with scrcpy and omxplayer on RPi 
 
-by default scrcpy works in RPi but cpu always clocks at >90% temp around ~70
+by default scrcpy works in RPi but cpu always clocks at >90% and temp around ~70°C
+
 with this script get scrcpy working with hardware acceleration on most popular raspberry pi computer. (btw no controls)
 
 ## How to :
